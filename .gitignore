@@ -1,0 +1,64 @@
+# Java and Maven
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.lock
+*.bak
+*.swp
+*.tmp
+*.orig
+target/
+bin/
+out/
+build/
+.classpath
+.project
+.settings/
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# VSCode
+.vscode/
+
+# Eclipse
+.metadata/
+.apt_generated/
+.factorypath
+.springBeans
+
+# IntelliJ IDEA
+*.idea
+*.iml
+*.iws
+*.ipr
+out/
+
+# Gradle
+.gradle/
+build/
+
+# OS X
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+
+# Other
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+*.java~
